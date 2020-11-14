@@ -1,0 +1,108 @@
+[
+    {"id":1,
+		"img":"../images/images/ia_100000025.png",
+		"title":"荣耀30",
+		"price":"￥2699起",
+		"dese":"26618人评论",
+		"dest":"96%好评"
+
+	},
+    {"id":2,
+		"img":"../images/images/ia_100000024.jpg",
+		"title":"荣耀30 Pro",
+		"price":"￥3999起",
+		"dese":"26962人评论",
+		"dest":"99%好评"
+
+	},
+    {"id":3,
+		"img":"../images/images/ia_100000027.jpg",
+		"title":"荣耀X10",
+		"price":"￥1899起",
+		"dese":"22653人评论",
+		"dest":"95%好评"
+
+	},
+    {"id":4,
+		"img":"../images/images/ia_100000026.png",
+		"title":"荣耀V30 PRO",
+		"price":"￥3399起",
+		"dese":"36623人评论",
+		"dest":"96%好评"
+
+	},
+    {"id":5,
+		"img":"../images/images/ia_100000027.jpg",
+		"title":"荣耀9X",
+		"price":"￥2699起",
+		"dese":"26666人评论",
+		"dest":"95%好评"
+
+	},
+    {"id":6,
+		"img":"../images/images/ia_100000024.jpg",
+		"title":"荣耀V30",
+		"price":"￥2899起",
+		"dese":"29963人评论",
+		"dest":"97%好评"
+
+	},
+    {"id":7,
+		"img":"../images/images/ia_100000025.png",
+		"title":"荣耀20青春版",
+		"price":"￥1199起",
+		"dese":"36623人评论",
+		"dest":"98%好评"
+
+    },
+    {"id":8,
+		"img":"../images/images/ia_100000024.jpg",
+		"title":"荣耀30 Pro",
+		"price":"￥3999起",
+		"dese":"26962人评论",
+		"dest":"99%好评"
+
+	},
+    {"id":9,
+		"img":"../images/images/ia_100000027.jpg",
+		"title":"荣耀X10",
+		"price":"￥1899起",
+		"dese":"22653人评论",
+		"dest":"95%好评"
+
+	},
+    {"id":10,
+		"img":"../images/images/ia_100000026.png",
+		"title":"荣耀V30 PRO",
+		"price":"￥3399起",
+		"dese":"36623人评论",
+		"dest":"96%好评"
+
+    },
+    {"id":11,
+		"img":"../images/images/ia_100000027.jpg",
+		"title":"荣耀X10",
+		"price":"￥1899起",
+		"dese":"22653人评论",
+		"dest":"95%好评"
+
+    },
+    {"id":12,
+		"img":"../images/images/ia_100000025.png",
+		"title":"荣耀20青春版",
+		"price":"￥1199起",
+		"dese":"36623人评论",
+		"dest":"98%好评"
+
+    },
+    {"id":13,
+		"img":"../images/images/ia_100000027.jpg",
+		"title":"荣耀9X",
+		"price":"￥2699起",
+		"dese":"26666人评论",
+		"dest":"95%好评"
+
+	}
+
+
+]
